@@ -1,0 +1,13 @@
+Edit Nugroho 27 April 2020 00.40
+====================
+HTML : 
+•Index.html :
+1. Mengganti deskrpsi h1, h3, dan p di class container di top-wrapper
+2. Mengganti deskripsi h2, p di main-wrapper
+3. Mengganti deskripsi di extra-wrapper
+4. Menautkan image baru atas pergantian tersebut
+
+Responsive.css
+1. Menambahkan script #responsive .extra-photos {
+      flex-direction: column;
+      margin: 0 auto;

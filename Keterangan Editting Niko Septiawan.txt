@@ -1,0 +1,15 @@
+Edit Niko Septiawan 26 April 2020 20:19
+====================
+HTML : 
+•Index.html :
+1. Menambahkan Id responsive di body
+2. Menambahkan < div hamburger >
+3. Menambahan tag input type checkbox
+
+==================
+CSS :
+1. Menambahkan Responsive.css
+
+2.stylesheet.css :
+.logo {
+Menghilangkan margin top }
