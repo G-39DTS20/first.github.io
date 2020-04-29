@@ -11,3 +11,9 @@ Responsive.css
 1. Menambahkan script #responsive .extra-photos {
       flex-direction: column;
       margin: 0 auto;
+      
+Edit Nugroho 27 April 2020 00.40
+====================
+HTML : 
+•Index.html :
+1. mengganti nama file nugi.jpg
