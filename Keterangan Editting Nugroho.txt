@@ -17,3 +17,4 @@ Edit Nugroho 27 April 2020 00.40
 HTML : 
 •Index.html :
 1. mengganti nama file nugi.jpg
+2. mengupload file poto
